@@ -16,7 +16,7 @@ namespace test
                 string input = Console.ReadLine();
              
                 // Output is an interger
-                int output = Convert.ToInt32(extract.extractnumber(input));
+                int output = extract.extractnumber(input);
 
                 Console.WriteLine("Output  = " + output);
 

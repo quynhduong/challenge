@@ -19,7 +19,6 @@ namespace test
                     original[i] == '8' || original[i] == '9')
                 {
                     output += original[i];
-                    Console.WriteLine(output);
                 }
             }
 
